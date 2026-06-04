@@ -1,0 +1,40 @@
+# Compilação e Binários
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Binários do Linux (executáveis gerados)
+# Ignora arquivos sem extensão na pasta de compilação ou ignora executáveis específicos
+# (como regra geral, ignorar arquivos específicos ou usar build/ para compilação)
+# Se você compilar usando o VS Code, pode ignorar os executáveis gerados na mesma pasta:
+programacao-orientada-a-objetos/tratamento-de-erros/herdar-exception
+programacao-orientada-a-objetos/tratamento-de-erros/re-throw
+programacao-orientada-a-objetos/tratamento-de-erros/tratamento-de-erros
+programacao-orientada-a-objetos/tratamento-de-erros/tratamento-multiplos
+programacao-orientada-a-objetos/templates-e-polimorfismo/template
+programacao-orientada-a-objetos/templates-e-polimorfismo/polimorfismo
+programacao-orientada-a-objetos/templates-e-polimorfismo/Funcionarios
+programacao-orientada-a-objetos/classes-e-heranca/WorkingStudent/main
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/bubble_sort
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/insertion_sort
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/selection_sort
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/merge_sort
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/quick_sort
+estrutura-de-dados-e-algoritmos/algoritmos-ordenacao/timsort
+competitiva/OBI
+
+# Arquivos temporários do LibreOffice / Office
+.~lock.*
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
