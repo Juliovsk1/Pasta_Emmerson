@@ -73,5 +73,5 @@ g++ -std=c++17 -Wall main.cpp WorkingStudent.cpp ../Student/Student.cpp ../Perso
 
 ---
 
-## 👤 Autor
+## 👤 Professor
 * **Emmerson**
